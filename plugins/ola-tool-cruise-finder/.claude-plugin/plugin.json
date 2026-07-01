@@ -1,0 +1,8 @@
+{
+  "name": "ola-tool-cruise-finder",
+  "description": "A powerful tool that assists users in finding the best cruises based on their preferences and requirements.",
+  "version": "0.1.0",
+  "author": {
+    "name": "craftwave"
+  }
+}
